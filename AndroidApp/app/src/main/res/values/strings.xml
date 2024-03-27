@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="content_provider_name">Contacts</string>
+    <string name="service_name">Service</string>
+    <string name="broadcast_message">Broadcast</string>
+    <string name="adarsh">asajjan1@asu.edu</string>
+    <string name="murali">makula2@asu.edu</string>
+    <string name="bhargav">svemuri9@asu.edu</string>
+</resources>
