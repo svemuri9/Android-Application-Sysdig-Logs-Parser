@@ -18,6 +18,7 @@ def main():
     base_location = "/Users/adarshsajjan/Downloads/selectedAPKs/APKCode"
     apk_permissions_count = defaultdict(int)
     permission_count = defaultdict(int)
+    # added
     for apk_name in os.listdir(base_location):
         if apk_name[0] != '.':
             manifest_file_location = os.path.join(base_location, apk_name)
